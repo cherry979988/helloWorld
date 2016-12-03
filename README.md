@@ -1,3 +1,4 @@
-# helloWorld
-first time using GitHub
+## helloWorld
+# hello again
+first time using GitHub. 
 Hello I am Cherry.
